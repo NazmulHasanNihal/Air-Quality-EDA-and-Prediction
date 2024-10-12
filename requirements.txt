@@ -12,3 +12,4 @@ Flask
 Streamlit
 twilio
 joblib
+-e .
